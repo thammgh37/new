@@ -1,2 +1,6 @@
 Visual Studio 2022\Code Snippets\Visual C++\code\new>
+<<<<<<< HEAD
 anh trinh hoag anh
+=======
+anh trinh hoang
+>>>>>>> fd9aecb (Update intro.txt)
